@@ -432,6 +432,10 @@ transform: translateY(0);
     margin-bottom: 16px;
 }
 
+.footer-main-content{
+    margin-right: 120px;
+}
+
 .footer-logo-part {
     text-transform: uppercase;
     color: #f4f4fd;
@@ -451,21 +455,20 @@ transform: translateY(0);
 }
 
 .footer-social-title{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #fff;
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #fff;
 }
 
 .footer-social-nav{
-    margin-left: 120px;
+
 }
 
 .footer-nav-list{
     gap: 16px;
-    margin-top: 16px;
-    
 }
 
 .footer-link{
