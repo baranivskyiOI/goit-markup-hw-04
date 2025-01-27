@@ -478,6 +478,6 @@ transform: translateY(0);
 .footer-link:hover{
     background-color: #31d0aa;
 }
-.footer-link:focus{
+.footer-link:focus {
     background-color: #31d0aa;
 }
